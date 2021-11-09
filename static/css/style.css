@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 :root {
     --dark-1:#ab6cfd;
     --dark-2:#6414cc;
@@ -16,20 +16,37 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
+    position: relative;
 }
 
 .container{
+    position: absolute;
+    top: 8rem;
+    right: 5rem;
     width: 60vh;
     height: 50vh;
     background-color: var(--dark-1);
-    margin: auto;
-    margin-top: 50px;
+}
+
+.text{
+    color: var(--light);
+    font-weight: 700;
+    font-size: 40px;
+    position: absolute;
+    top: 15vh;
+    left: 30px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+#groupchat{
+    width: 30vw;
+    height: 30vh;
+    margin-left: 1rem;
 }
 
 header{
     background-color: var(--dark-2);
     height: 60px;
-    margin-top: 10px;
     padding: 0.5rem;
     display: flex;
     justify-content: center;
@@ -38,6 +55,7 @@ header{
 .header-text{
     margin-left: 0.2rem;
     color: var(--mid-2);
+    font-family: 'Mochiy Pop P One', sans-serif;
 }
 .header-logo img{
     width: 35px;
