@@ -4,11 +4,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WebChat</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>Wooz</title>
 </head>
 <body>
     <div class="container">
-        
+        <header>            
+            <div class="header-logo">
+                <img src="/static/img/logo.png" alt="">
+            </div>
+            <div class="header-text"><b>Wooz</b></div>
+        </header>
+        <section class="section-container">
+            <form action="">
+                <div class="form-control">
+                    <label for="username">Username</label>
+                    <input type="text" name="username" id="username" placeholder="       Enter username..." required autocomplete="off">
+                </div>
+                <div class="form-control">
+                    <label for="room">Room</label>
+                    <select name="room" id="room">
+                        <option value="">Select a room</option>
+                        <option value="General">General</option>
+                        <option value="Games">Games</option>
+                        <option value="Movies">Movies</option>
+                        <option value="Music">Music</option>
+                        <option value="Code">Code</option>
+                        <option value="DSA">DSA</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn">Join Chat</button>
+            </form>
+        </section>
     </div>
 </body>
 </html>
