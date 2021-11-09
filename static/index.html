@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,9 +8,20 @@
     <link rel="stylesheet" href="/static/css/style.css">
     <title>Wooz</title>
 </head>
+
 <body>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="#5000ca" fill-opacity="1"
+            d="M0,256L30,261.3C60,267,120,277,180,261.3C240,245,300,203,360,170.7C420,139,480,117,540,144C600,171,660,245,720,234.7C780,224,840,128,900,80C960,32,1020,32,1080,48C1140,64,1200,96,1260,101.3C1320,107,1380,85,1410,74.7L1440,64L1440,0L1410,0C1380,0,1320,0,1260,0C1200,0,1140,0,1080,0C1020,0,960,0,900,0C840,0,780,0,720,0C660,0,600,0,540,0C480,0,420,0,360,0C300,0,240,0,180,0C120,0,60,0,30,0L0,0Z">
+        </path>
+    </svg>
+    <svg height="100" width="100" style="position: absolute; top:0px; left:0px; ">
+        <circle cx="10" cy="10" r="90" fill="#99FEFF" />
+    </svg>
+    <img id="groupchat" src="/static/img/groupchat.svg" alt="">
+    <div class="text">Enjoy group chat with friends ! <br> That's Wooz for you</div>
     <div class="container">
-        <header>            
+        <header>
             <div class="header-logo">
                 <img src="/static/img/logo.png" alt="">
             </div>
@@ -19,7 +31,8 @@
             <form action="">
                 <div class="form-control">
                     <label for="username">Username</label>
-                    <input type="text" name="username" id="username" placeholder="       Enter username..." required autocomplete="off">
+                    <input type="text" name="username" id="username" placeholder="       Enter username..." required
+                        autocomplete="off">
                 </div>
                 <div class="form-control">
                     <label for="room">Room</label>
@@ -38,4 +51,5 @@
         </section>
     </div>
 </body>
+
 </html>
