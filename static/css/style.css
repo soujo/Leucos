@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+    --dark-1:#ab6cfd;
+    --dark-2:#6414cc;
+    --mid-1:#94B3FD;
+    --mid-2:#94DAFF;
+    --light:#99FEFF;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 60vh;
+    height: 50vh;
+    background-color: var(--dark-1);
+    margin: auto;
+    margin-top: 50px;
+}
+
+header{
+    background-color: var(--dark-2);
+    height: 60px;
+    margin-top: 10px;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-text{
+    margin-left: 0.2rem;
+    color: var(--mid-2);
+}
+.header-logo img{
+    width: 35px;
+    height: 35px;
+}
+.section-container{
+    display: flex;
+    justify-content: center;
+    height: 80%;
+}
+
+
+.section-container label {
+	display: block;
+    margin-top: 0.8rem;
+    margin-bottom: 0.2rem;
+}
+
+.section-container input[type='text'] {
+	font-size: 16px;
+	padding: 5px;
+	height: 40px;
+	width: 100%;
+    outline: none;
+    border:none;
+}
+
+.section-container select {
+	font-size: 16px;
+	padding: 5px;
+	height: 40px;
+	width: 100%;
+    outline: none;
+
+}
+
+.section-container .btn {
+	margin-top: 30px;
+	width: 100%;
+    height: 35px;
+    border: none;
+    background-color: var(--dark-2);
+    color: var(--light);
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.section-container .btn:hover {
+    background-color: var(--mid-2);
+    color: var(--dark-2);
+    transition: 0.3s ease-in;
+}
