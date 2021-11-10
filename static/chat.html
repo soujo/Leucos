@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/chat.css">
+    <title>Chatroom</title>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-logo">
+                <img src="/static/img/logo.png" alt="">
+            </div>
+            <div class="header-text"><b>Wooz</b></div>
+            <a href="" class="leave-room">Leave Room</a>
+        </header>
+        <main>
+            <aside>
+                <div class="room">
+                    <div class="room-name-div">
+                        <img src="/static/img/chatroom.png" alt="">
+                        Room Name
+                    </div>
+                    <div id="room-name">General</div>
+                </div>
+                <div class="user">
+                    <div class="user-name-div">
+                        <img src="/static/img/users.png" alt="">
+                        Users
+                    </div>
+                    <ul id="users">
+                        <li>user-1</li>
+                        <li>user-2</li>
+                        <li>user-3</li>
+                        <li>user-4</li>
+                    </ul>
+                </div>
+            </aside>
+            <section>
+                <div class="chat-msg left">
+                    <div class="chat-heading">user-1 <span>9:42</span></div>
+                    <div class="chat-text">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aliquid laborum quidem fugit
+                        nemo. Aperiam.
+                    </div>
+                </div>
+                <div class="chat-msg right">
+                    <div class="chat-heading">user-2 <span>9:43</span></div>
+                    <div class="chat-text">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus aliquid laborum quidem fugit
+                        nemo. Aperiam.
+                    </div>
+                </div>
+            </section>
+        </main>
+        <div class="chat-send-box">
+            <form id="chat-form">
+                <input id="msg" type="text" placeholder="Enter Message" required autocomplete="off" />
+                <button class="send-btn">
+                    <img src="/static/img/msg-send.png" alt="">
+                    Send
+                </button>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
