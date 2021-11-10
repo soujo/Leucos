@@ -25,7 +25,7 @@ body {
     position: absolute;
     top: 8rem;
     right: 5rem;
-    width: 60vh;
+    width: 30vw;
     height: 50vh;
     background-color: var(--dark-1);
 }
