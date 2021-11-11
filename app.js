@@ -44,7 +44,7 @@ io.on("connection", (socket) => {
 
 
         //* Bot msg
-        socket.emit("bot", { msg: "Welcome to Wooz !", position: "middle" });
+        socket.emit("bot", { msg: "Welcome to Leucos !", position: "middle" });
 
         socket.broadcast.to(user.room).emit("bot", { msg: `${user.username} joined the room`, position: "middle" });
 

@@ -73,7 +73,7 @@ function outputMsg(msg, position) {
     div.classList.add(position);
     div.innerHTML = `
 
-    <div class="chat-heading">Wooz Bot<span>${time}</span></div>
+    <div class="chat-heading">Leucos Bot<span>${time}</span></div>
     <div class="chat-text">
         ${msg}
     </div>
