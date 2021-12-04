@@ -135,7 +135,8 @@ aside #room-name{
 }
 #users{
     padding: 0.3rem;
-    height: max-content;
+    height: 200px;
+    overflow-y: auto;
 }
 
 section{
@@ -220,4 +221,60 @@ section{
 }
 .send-btn img{
     height: 25px;
+}
+.side{
+    display: none;
+}
+.cross{
+    display: none;
+}
+
+@media only screen and (max-width:425px){
+    body{
+        position: relative;
+    }
+    body::before{
+        top: -50px;
+    }
+    .container{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+    #users{
+        height: 150px;
+    }
+    header{
+        width: 100%;
+    }
+    .leave-room{
+        position: absolute;
+        font-size: 0.8rem;
+        top: 18px;
+        right: 10px;
+    }
+    section{
+        width: 100%;
+        overflow-x: auto;
+
+    }
+    aside{
+        width: 100%;
+        display: none;
+        z-index: 10;
+        transition: 0.2s ease-in-out;
+    }
+    .side{
+        display: block;
+        position: absolute;
+        font-weight: 800;
+        color: var(--dark-2);
+    }
+    .cross{
+        position: absolute;
+        display: block;
+        color: #ffffff;
+        top: 60px;
+        left: 40vw;
+    }
 }
