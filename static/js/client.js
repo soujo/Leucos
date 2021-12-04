@@ -3,6 +3,20 @@ const msg = document.getElementById("msg");
 const section = document.getElementById("putHere");
 const roomName = document.getElementById("room-name");
 const userList = document.getElementById("users");
+const side = document.querySelector(".side");
+const cross = document.querySelector(".cross");
+const aside = document.getElementById("aside");
+
+side.addEventListener("click",()=>{
+    aside.style.display="block"
+});
+
+cross.addEventListener("click",()=>{
+    aside.style.display="none"
+});
+
+
+
 const socket = io();
 
 let time = moment().format("hh:mm a");//*from moment.js library
