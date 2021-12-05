@@ -229,7 +229,7 @@ section{
     display: none;
 }
 
-@media screen and (max-width:375px){
+@media screen and (max-width:320px){
     
     .leave-room{
         height: 25px;
@@ -237,7 +237,15 @@ section{
     }
 }
 
-@media only screen and (max-width:425px){
+@media screen and (min-width:321px) and (max-width:416px){
+    
+    .leave-room{
+        height: 25px;
+        width: 80px;
+    }
+}
+
+@media  screen and (max-width:450px){
     body{
         position: relative;
     }
