@@ -229,6 +229,14 @@ section{
     display: none;
 }
 
+@media screen and (max-width:375px){
+    
+    .leave-room{
+        height: 25px;
+        width: 80px;
+    }
+}
+
 @media only screen and (max-width:425px){
     body{
         position: relative;
@@ -240,6 +248,7 @@ section{
         width: 90%;
         display: flex;
         flex-direction: column;
+        height: 70%;
     }
     #users{
         height: 150px;
@@ -259,8 +268,8 @@ section{
 
     }
     aside{
-        width: 100%;
-        display: none;
+        position: absolute;
+        width: 50%;
         z-index: 10;
         transition: 0.2s ease-in-out;
     }
@@ -274,7 +283,16 @@ section{
         position: absolute;
         display: block;
         color: #ffffff;
-        top: 60px;
+        top: 3px;
         left: 40vw;
+    }
+    .chat-msg{
+        width: 80%;
+    }
+    .right{
+        margin-left: 18vw;
+    }
+    .chat-send-box{
+        height: 10vh;
     }
 }

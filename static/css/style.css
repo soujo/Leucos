@@ -129,6 +129,15 @@ footer{
     z-index: 5;
 }
 
+@media only screen and (max-width:320px){
+    
+    #wave{
+        left: 0;
+        bottom: 0;
+        width: 390px;
+    }
+}
+
 @media only screen and (max-width:375px){
     body{
         min-height: 100vh;
