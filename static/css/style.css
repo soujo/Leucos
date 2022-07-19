@@ -28,7 +28,7 @@ body {
     width: 30vw;
     height: 50vh;
     /* background-color: var(--dark-1); */
-    background-color: black;
+    background-color: black; 
 }
 
 .text{
