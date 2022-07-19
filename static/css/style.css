@@ -27,7 +27,8 @@ body {
     right: 5rem;
     width: 30vw;
     height: 50vh;
-    background-color: var(--dark-1);
+    /* background-color: var(--dark-1); */
+    background-color: red;
 }
 
 .text{
