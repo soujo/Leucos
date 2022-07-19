@@ -21,7 +21,7 @@ jobs:
         uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
-          heroku_email: ${{ env.HEROKU_EMAIL }}
+          heroku_email: hazrasoujanya@gmail.com
           heroku_app_name: ${{ env.HEROKU_APP_NAME }}
           justlogin: true
 
