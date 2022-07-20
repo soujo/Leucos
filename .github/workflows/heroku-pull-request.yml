@@ -8,7 +8,7 @@ jobs:
   heroku-pull-request:
     runs-on: ubuntu-latest
     env:
-      HEROKU_APP_NAME: my-app-pr-${{ github.event.number }}
+      HEROKU_APP_NAME: leucos-pr-${{ github.event.number }}
 
     steps:
       - name: Checkout repository
