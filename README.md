@@ -160,7 +160,7 @@ Create a `.env` file then edit it with your settings. You will need:
   
 <br>
 
-> console.log ( " Start contributing for Codeaon " );
+> console.log ( " Start contributing for Leucos " );
 
 
 ## Open Source Programs
