@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Welcome to Leucos 👋💻</h1>
-  <h3>Live Website for Leucos : <a href="https://leucos.herokuapp.com/">Click Here!</a></h3>
+  <h3>Live Website for Leucos : <a href="https://Leucos.herokuapp.com/">Click Here!</a></h3>
 </div>
 
 <br>
@@ -10,7 +10,7 @@
 <a href="https://github.com/soujo"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
 <a href="https://github.com/soujo"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
 <a href="https://github.com/soujo"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
-<a href="https://github.com/soujo/leucos/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/soujo/leucos"></a>
+<a href="https://github.com/soujo/Leucos/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/soujo/Leucos"></a>
 <a href="https://github.com/soujo"><img src="https://img.shields.io/maintenance/yes/2022"></a>
 </p> 
 
@@ -76,7 +76,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 
 If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/soujo/leucos/blob/main/CONTRIBUTING.md).
+Go through the contributing guidelines [here](https://github.com/soujo/Leucos/blob/master/CONTRIBUTING.md).
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
@@ -84,9 +84,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 ##  Templates to Follow
 
-- [Feature request](https://github.com/soujo/leucos/blob/main/.github/issue_templates/feature_request.md)
-- [Bug Report](https://github.com/soujo/leucos/blob/main/.github/issue_templates/bug_report.md)
-- [Pull Request](https://github.com/soujo/leucos/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [Feature request](https://github.com/soujo/Leucos/blob/master/.github/issue_templates/feature_request.md)
+- [Bug Report](https://github.com/soujo/Leucos/blob/master/.github/issue_templates/bug_report.md)
+- [Pull Request](https://github.com/soujo/Leucos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
 
@@ -130,7 +130,7 @@ Folder structure of this project for your reference
 
 - Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
-**NOTE** : For more details <a href="https://github.com/soujo/leucos/blob/main/CONTRIBUTING.md">Click Here!</a>
+**NOTE** : For more details <a href="https://github.com/soujo/Leucos/blob/master/CONTRIBUTING.md">Click Here!</a>
 
 ## Installation
 
@@ -181,8 +181,8 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<a href="https://github.com/soujo/leucos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=soujo/leucos" />
+<a href="https://github.com/soujo/Leucos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=soujo/Leucos" />
 </a>
 
 <!-- markdownlint-enable -->
@@ -192,12 +192,12 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 
 ##  Code Of Conduct
 
-You can find our Code of Conduct [here](https://github.com/soujo/leucos/blob/main/CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](https://github.com/soujo/Leucos/blob/master/CODE_OF_CONDUCT.md).
 
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/soujo/leucos/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/soujo/Leucos/blob/master/LICENSE) file for details.
 
 
 ##  Project Admin
