@@ -17,12 +17,12 @@
 
 ##  Repository
 
-A one-stop website for all developers and coders. This platform helps us to get all Youtube tutorials and articles for a certain topic in one place. This project proves to be a very handy and effective yet resourceful tool for learners.
+This project is a chat app where you can connect to people personally or bring teams together in different rooms. This can be used as a collaboration tool where you can connect all your work in one place. Using this, we can easily collaborate, ideate and centralize communication.
 
 
 ##  Join Here
- Join us to come up with a real-time platform to tackle the solution of needs of the individuals who are in situations of struggling to find proper resource to get started with and explore the coding world.
- We are building this app to ensure that no one suffers due to lack of awareness and get the required help when time matters a lot. Lets make this workflow more efficient and valuable to the community for their livelihood. 
+ Join us to come up with a real-time platform to chat with people. This tool can help you to collaborate which ensures centralizing of communications. <br>
+       We are building this app to ensure collaboration, engagement and communication that moves work forward and keeps your team connected in the tap of a button.
 
 
 ##  Tech Stacks
