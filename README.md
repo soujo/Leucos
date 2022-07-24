@@ -76,7 +76,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 
 If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/soujo/Leucos/blob/master/CONTRIBUTING.md).
+Go through the contributing guidelines [here](https://github.com/DSCKGEC/Leucos/blob/master/CONTRIBUTING.md).
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
@@ -84,9 +84,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 ##  Templates to Follow
 
-- [Feature request](https://github.com/soujo/Leucos/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
-- [Bug Report](https://github.com/soujo/Leucos/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
-- [Pull Request](https://github.com/soujo/Leucos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+- [Feature request](https://github.com/DSCKGEC/Leucos/blob/master/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/DSCKGEC/Leucos/blob/master/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/DSCKGEC/Leucos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
 
@@ -130,7 +130,7 @@ Folder structure of this project for your reference
 
 - Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
-**NOTE** : For more details <a href="https://github.com/soujo/Leucos/blob/master/CONTRIBUTING.md">Click Here!</a>
+**NOTE** : For more details <a href="https://github.com/DSCKGEC/Leucos/blob/master/CONTRIBUTING.md">Click Here!</a>
 
 ## Installation
 
@@ -168,7 +168,7 @@ Create a `.env` file then edit it with your settings. You will need:
 <table>
 <tr>
  <td align="center">
-<a href="#"><img src="" width=100px height=100px /><br /><sub><b>KGEC Summer Of Code</b></sub></a>
+<a href="https://dscksoc.herokuapp.com/"><img src="https://raw.githubusercontent.com/soujo/codeaon/main/open_source/ksoc-logo.png" width=80px height=80px /><br /><sub><b>KGEC Summer Of Code</b></sub></a>
  </td>
 </tr>
 </table>
@@ -181,8 +181,8 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<a href="https://github.com/soujo/Leucos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=soujo/Leucos" />
+<a href="https://github.com/DSCKGEC/Leucos/pulse">
+  <img src="https://contrib.rocks/image?repo=DSCKGEC/Leucos" />
 </a>
 
 <!-- markdownlint-enable -->
@@ -192,12 +192,12 @@ Special thanks goes to all of the mentees who made a choice to make an impact. C
 
 ##  Code Of Conduct
 
-You can find our Code of Conduct [here](https://github.com/soujo/Leucos/blob/master/CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](https://github.com/DSCKGEC/Leucos/blob/master/CODE_OF_CONDUCT.md).
 
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/soujo/Leucos/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DSCKGEC/Leucos/blob/master/LICENSE) file for details.
 
 
 ##  Project Admin
@@ -212,7 +212,7 @@ If you liked working on this project, do ⭐ and share this repository.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 <br>
 
-##  Contact Me
+<!-- ##  Contact Me
 
 If you want to contact me, you can reach me through below handles.
 
@@ -229,9 +229,9 @@ If you want to contact me, you can reach me through below handles.
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<br>
+<br> -->
 
-© 2022 Soujanya Hazra
+<!-- © 2022 Soujanya Hazra -->
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 
