@@ -84,8 +84,8 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 ##  Templates to Follow
 
-- [Feature request](https://github.com/soujo/Leucos/blob/master/.github/issue_template/feature_request.md)
-- [Bug Report](https://github.com/soujo/Leucos/blob/master/.github/issue_template/bug_report.md)
+- [Feature request](https://github.com/soujo/Leucos/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
+- [Bug Report](https://github.com/soujo/Leucos/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 - [Pull Request](https://github.com/soujo/Leucos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request.
