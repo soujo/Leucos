@@ -1,0 +1,31 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    width: 100vw;
+    font-family: "Open Sans";
+}
+.footer-content h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.git{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-family: "Open Sans";
+}
+.git img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 10px;
+}
