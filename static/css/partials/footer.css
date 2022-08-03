@@ -7,19 +7,12 @@ footer{
     width: 100vw;
     font-family: "Open Sans";
 }
-.footer-content h3{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 1.2rem;
-}
 .footer-content h2{
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 .git{
     display: flex;
@@ -31,5 +24,8 @@ footer{
 .git img{
     width: 25px;
     height: 25px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 10px;
 }
-
