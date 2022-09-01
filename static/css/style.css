@@ -17,8 +17,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  /* position: relative; */
-  overflow-y: hidden;
+  position: relative;
 }
 
 #header {
@@ -93,9 +92,13 @@ body {
   border: none;
   border-radius: 8px;
   font-size: 15px;
+  transition: 0.3s;
+}
+.btn1:hover {
+  transform: scale(1.05);
 }
 
-.btn1 a {
+a .btn1 {
   color: #fff;
   text-decoration: none;
   cursor: pointer;
@@ -164,7 +167,8 @@ body {
   width: 500px;
 }
 #chat {
-  padding: 50px;
+  padding: 120px 30px;
+  height: 80vh;
 }
 
 #footer {

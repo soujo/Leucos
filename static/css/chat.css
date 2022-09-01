@@ -167,7 +167,7 @@ section {
 }
 .right {
   display: block;
-  margin-left: 33vw;
+  margin-left: 45vw;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -177,6 +177,7 @@ section {
   display: block;
   margin: auto;
   margin-bottom: 5px;
+  border-radius: 10px;
 }
 
 .chat-heading {
